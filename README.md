@@ -25,3 +25,6 @@
 **Output**:
 
 ![](Fintech.png?raw=true)
+
+
+**Naive conclusion**: data is essential to understand the market!
