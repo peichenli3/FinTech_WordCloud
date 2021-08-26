@@ -1,5 +1,6 @@
 **Input**: a collection of abstracts of papers from financial economists.
 
+**Logistics**:  
 1.	Load the dependencies including:  
 *	os: setting working directory  
 * spacy: apply nlp model  
