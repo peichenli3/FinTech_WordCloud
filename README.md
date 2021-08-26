@@ -18,3 +18,5 @@
 6.	Filtering  
 
 7.	Visualization using wordcloud  
+
+![](Fintech.png?raw=true)
