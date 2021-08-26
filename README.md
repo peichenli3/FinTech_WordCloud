@@ -27,4 +27,4 @@
 ![](Fintech.png?raw=true)
 
 
-**Naive conclusion**: data is essential to understand the market!
+**Naive conclusion**: to understand the market, data is essential!
