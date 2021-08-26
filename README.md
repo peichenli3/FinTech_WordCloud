@@ -1,3 +1,5 @@
+Input: a collection of abstracts of papers from financial economists.
+
 1.	Load the dependencies including:  
 *	os: setting working directory  
 * spacy: apply nlp model  
@@ -17,6 +19,8 @@
 
 6.	Filtering  
 
-7.	Visualization using wordcloud  
+7.	Visualization using wordcloud
+
+Output:
 
 ![](Fintech.png?raw=true)
