@@ -1,4 +1,4 @@
-Input: a collection of abstracts of papers from financial economists.
+**Input**: a collection of abstracts of papers from financial economists.
 
 1.	Load the dependencies including:  
 *	os: setting working directory  
@@ -21,6 +21,6 @@ Input: a collection of abstracts of papers from financial economists.
 
 7.	Visualization using wordcloud
 
-Output:
+**Output**:
 
 ![](Fintech.png?raw=true)
